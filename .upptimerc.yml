@@ -20,8 +20,8 @@ sites:
     url: https://vilanovamazon.com.br
   - name: villenamoveis.com.br
     url: https://villenamoveis.com.br
-  - name: plenacertificadora.com.br
-    url: https://plenacertificadora.com.br
+  - name: plenacertificados.com.br
+    url: https://plenacertificados.com.br
   - name: a1sistemas.com.br
     url: https://a1sistemas.com.br
   - name: aguadeanjo.com.br
@@ -122,8 +122,6 @@ sites:
     url: https://personapublicidade.com.br
   - name: traxt.io
     url: https://traxt.io
-  - name: yukanswap.io
-    url: https://yukanswap.io
   - name: dev.stelladiamonds.com.br
     url: https://dev.stelladiamonds.com.br
   - name: prazeresdobanhoabc.com.br
@@ -134,8 +132,6 @@ sites:
     url: https://estudiohugofreire.com
   - name: coopesp.com.br
     url: https://coopesp.com.br
-  - name: processgrupo.com.br
-    url: https://processgrupo.com.br
   - name: conceitoimoveispg.com.br
     url: https://conceitoimoveispg.com.br
   - name: construtorabaseforte.com.br
@@ -212,8 +208,6 @@ sites:
     url: https://rotarypontagrossa.com.br
   - name: saltte.com.br
     url: https://saltte.com.br
-  - name: snacksmais.com.br
-    url: https://snacksmais.com.br
   - name: construtorajmc.com.br
     url: https://construtorajmc.com.br
   - name: 2coelhos.com.br
@@ -239,7 +233,7 @@ sites:
   - name: julianamacielarqinteriores.com.br
     url: https://julianamacielarqinteriores.com.br
   - name: mercadodeeventos.com
-    url: https://mercadodeeventos.com
+    url: https://www.mercadodeeventos.com
   - name: vfteng.com.br
     url: https://vfteng.com.br
   - name: avanttengenharia.com.br
