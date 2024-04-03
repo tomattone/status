@@ -178,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 172
+      "2024-04-03": 221
     }
   },
   {
@@ -378,7 +378,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 171
+      "2024-04-03": 220
     }
   },
   {
@@ -470,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 171
+      "2024-04-03": 220
     }
   },
   {
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 171
+      "2024-04-03": 220
     }
   },
   {
@@ -564,7 +564,7 @@
     "timeMonth": 663,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2024-04-03": 171
+      "2024-04-03": 219
     }
   },
   {
@@ -674,7 +674,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 171
+      "2024-04-03": 219
     }
   },
   {
@@ -784,7 +784,7 @@
     "timeMonth": 655,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2024-04-03": 170
+      "2024-04-03": 219
     }
   },
   {
@@ -894,7 +894,7 @@
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-04-03": 170
+      "2024-04-03": 219
     }
   },
   {
@@ -957,18 +957,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/capitalli.co.ico",
     "slug": "capitalli-co",
     "status": "down",
-    "uptime": "0.29%",
-    "uptimeDay": "0.29%",
-    "uptimeWeek": "0.29%",
-    "uptimeMonth": "0.29%",
-    "uptimeYear": "0.29%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 169
+      "2024-04-03": 218
     }
   },
   {
@@ -1103,18 +1103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yukanswap.io.ico",
     "slug": "yukanswap-io",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 169
+      "2024-04-03": 218
     }
   },
   {
@@ -1224,7 +1224,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 169
+      "2024-04-03": 218
     }
   },
   {
@@ -1377,18 +1377,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lojacentermodas.com.ico",
     "slug": "lojacentermodas-com",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 731,
     "timeDay": 731,
     "timeWeek": 731,
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-04-03": 168
+      "2024-04-03": 217
     }
   },
   {
@@ -1414,18 +1414,20 @@
     "url": "https://mush.eco",
     "icon": "https://icons.duckduckgo.com/ip3/mush.eco.ico",
     "slug": "mush-eco",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 971,
     "timeDay": 971,
     "timeWeek": 971,
     "timeMonth": 971,
     "timeYear": 971,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 3
+    }
   },
   {
     "name": "vilavilo.com.br",
@@ -1685,18 +1687,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medicoapp.com.br.ico",
     "slug": "medicoapp-com-br",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 167
+      "2024-04-03": 216
     }
   },
   {
@@ -1842,7 +1844,7 @@
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-04-03": 167
+      "2024-04-03": 216
     }
   },
   {
@@ -1869,18 +1871,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbsodontologia.com.br.ico",
     "slug": "rbsodontologia-com-br",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 167
+      "2024-04-03": 216
     }
   },
   {
@@ -1900,7 +1902,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 334
+      "2024-04-03": 432
     }
   },
   {
@@ -1920,7 +1922,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 167
+      "2024-04-03": 216
     }
   },
   {
@@ -1940,7 +1942,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 167
+      "2024-04-03": 216
     }
   },
   {
@@ -2176,7 +2178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 167
+      "2024-04-03": 216
     }
   },
   {
@@ -2214,7 +2216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 167
+      "2024-04-03": 216
     }
   },
   {
