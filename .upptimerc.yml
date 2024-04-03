@@ -264,8 +264,8 @@ sites:
     url: https://preambulo.com.br
   - name: m3hengenharia.com
     url: https://m3hengenharia.com
-  - name: aguiasistemas.com
-    url: https://aguiasistemas.com
+  - name: aguiasistemas.com.br
+    url: https://aguiasistemas.com.br
   - name: compensadosscharan.com.br
     url: https://compensadosscharan.com.br
   - name: shoppingcarpg.com.br
@@ -281,7 +281,13 @@ sites:
 
 status-website:
   cname: status.tomazzoni.net
-  logoUrl: https://tomazzoni.net/img/dark-logo-horizontal.svg
-  name: Status - Tomazzoni • Hospedagem de site e emails.
-  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://tomazzoni.net/img/logo-horizontal.svg
+  favicon: https://tomazzoni.net/img/apple-touch-icon-180x180.png
+  name: Status | Tomazzoni • Hospedagem de site e emails.
+  theme: ocean
+  css: '.logo img { height: 2rem; padding: 15px 0px; } .logo div { display: none; }'
+  introTitle: ''
+  introMessage: Monitoramento em **tempo real** dos sites mantidos por Tomazzoni • Hospedagem de site e emails.
+  navbar:
+    - title: Status
+      href: /
