@@ -1,0 +1,60 @@
+activeIncidents: Incidentes Ativos
+allSystemsOperational: Todos os sistemas estão operacionais
+incidentReport: 'Relatório do Incidente #$NUMBER →'
+activeIncidentSummary: Aberto em $DATE com $POSTS postagens
+incidentTitle: Detalhes do Incidente $NUMBER
+incidentDetails: Detalhes do Incidente
+incidentFixed: Corrigido
+incidentOngoing: Em andamento
+incidentOpenedAt: Aberto em
+incidentClosedAt: Fechado em
+incidentViewOnGitHub: Visualizar e Inscrever-se no GitHub
+incidentCommentSummary: Postado em $DATE por $AUTHOR
+incidentBack: ← Voltar para todos os incidentes
+pastIncidents: Incidentes Anteriores
+pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS postagens
+liveStatus: Status Atual
+overallUptime: 'Tempo de atividade total: $UPTIME'
+overallUptimeTitle: Tempo de atividade total
+averageResponseTime: 'Tempo médio de resposta: $TIMEms'
+averageResponseTimeTitle: Tempo médio de resposta
+sevenDayResponseTime: Tempo de resposta de 7 dias
+responseTimeMs: Tempo de resposta (ms)
+up: Ativo
+down: Inativo
+degraded: Degradado
+ms: ms
+loading: Carregando
+navGitHub: GitHub
+footer: Feito com 🧡 por [tomazzoni.net](https://tomazzoni.net)
+rateLimitExceededTitle: Limite de taxa excedido
+rateLimitExceededIntro: Você excedeu o número de solicitações que pode fazer em uma hora, então terá que esperar antes de acessar este site novamente. Alternativamente, você pode adicionar um Token de Acesso Pessoal do GitHub para continuar a usar este site.
+rateLimitExceededWhatDoesErrorMean: O que significa este erro?
+rateLimitExceededErrorMeaning: Este site usa a API do GitHub para acessar dados em tempo real sobre o status de nossos sites. Por padrão, o GitHub permite 60 solicitações por hora para cada endereço IP, o que você consumiu.
+rateLimitExceededErrorHowCanFix: Como posso corrigir isso?
+rateLimitExceededErrorFix: Você pode esperar mais uma hora e o limite do seu endereço IP será restaurado. Alternativamente, você pode adicionar seu Token de Acesso Pessoal do GitHub, que oferece 5.000 solicitações adicionais por hora.
+rateLimitExceededGeneratePAT: Saiba como gerar um Token de Acesso Pessoal
+rateLimitExceededHasSet: Você tem um token de acesso pessoal configurado.
+rateLimitExceededRemoveToken: Remover token
+rateLimitExceededGitHubPAT: Token de Acesso Pessoal do GitHub
+rateLimitExceededCopyPastePAT: Copie e cole seu token
+rateLimitExceededSaveToken: Salvar token
+errorTitle: Ocorreu um erro
+errorIntro: Ocorreu um erro ao tentar obter os detalhes mais recentes do status.
+errorText: Você pode tentar novamente em alguns momentos.
+errorHome: Ir para a página inicial
+pastScheduledMaintenance: Manutenções Agendadas Anteriores
+scheduledMaintenance: Manutenção Agendada
+scheduledMaintenanceSummaryStarted: Iniciado em $DATE por $DURATION minutos
+scheduledMaintenanceSummaryStarts: Inicia em $DATE por $DURATION minutos
+startedAt: Iniciado em
+startsAt: Inicia em
+duration: Duração
+durationMin: $DURATION minutos
+incidentCompleted: Concluído
+incidentScheduled: Agendado
+duration24H: 24h
+duration7D: 7d
+duration30D: 30d
+duration1Y: 1a
+durationAll: todos

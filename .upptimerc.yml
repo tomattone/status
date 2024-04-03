@@ -284,10 +284,12 @@ status-website:
   logoUrl: https://tomazzoni.net/img/logo-horizontal.svg
   favicon: https://tomazzoni.net/img/apple-touch-icon-180x180.png
   name: Status | Tomazzoni • Hospedagem de site e emails.
-  theme: ocean
-  css: '.logo img { height: 2rem; padding: 15px 0px; } .logo div { display: none; }'
+  theme: light
+  css: '.logo img { height: 2.3rem !important; } .logo div { display: none; }'
   introTitle: ''
   introMessage: Monitoramento em **tempo real** dos sites mantidos por Tomazzoni • Hospedagem de site e emails.
   navbar:
     - title: Status
       href: /
+    - title: Contato
+      href: https://wa.me/5542988077188
