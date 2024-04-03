@@ -364,17 +364,17 @@
     "url": "https://kaosestudio.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/kaosestudio.com.br.ico",
     "slug": "kaosestudio-com-br",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.15%",
+    "uptimeDay": "3.15%",
+    "uptimeWeek": "3.15%",
+    "uptimeMonth": "3.15%",
+    "uptimeYear": "3.15%",
+    "time": 704,
+    "timeDay": 704,
+    "timeWeek": 704,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2024-04-03": 351
     }
@@ -468,7 +468,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 351
+      "2024-04-03": 363
     }
   },
   {
@@ -542,7 +542,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 351
+      "2024-04-03": 362
     }
   },
   {
@@ -562,7 +562,7 @@
     "timeMonth": 709,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2024-04-03": 351
+      "2024-04-03": 362
     }
   },
   {
@@ -672,7 +672,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 350
+      "2024-04-03": 362
     }
   },
   {
@@ -782,7 +782,7 @@
     "timeMonth": 683,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-04-03": 350
+      "2024-04-03": 362
     }
   },
   {
@@ -892,7 +892,7 @@
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-04-03": 350
+      "2024-04-03": 361
     }
   },
   {
@@ -966,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 349
+      "2024-04-03": 361
     }
   },
   {
@@ -1346,7 +1346,7 @@
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2024-04-03": 348
+      "2024-04-03": 360
     }
   },
   {
@@ -1654,7 +1654,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 347
+      "2024-04-03": 359
     }
   },
   {
@@ -1800,7 +1800,7 @@
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-04-03": 347
+      "2024-04-03": 359
     }
   },
   {
@@ -1838,7 +1838,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 347
+      "2024-04-03": 359
     }
   },
   {
@@ -1858,7 +1858,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 694
+      "2024-04-03": 716
     }
   },
   {
@@ -1878,7 +1878,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 347
+      "2024-04-03": 358
     }
   },
   {
@@ -2103,11 +2103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mercadodeeventos.com.ico",
     "slug": "mercadodeeventos-com",
     "status": "up",
-    "uptime": "0.95%",
-    "uptimeDay": "0.95%",
-    "uptimeWeek": "0.95%",
-    "uptimeMonth": "0.95%",
-    "uptimeYear": "0.95%",
+    "uptime": "4.09%",
+    "uptimeDay": "4.09%",
+    "uptimeWeek": "4.09%",
+    "uptimeMonth": "4.09%",
+    "uptimeYear": "4.09%",
     "time": 622,
     "timeDay": 622,
     "timeWeek": 622,
@@ -2152,7 +2152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 347
+      "2024-04-03": 358
     }
   },
   {
