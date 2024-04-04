@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 178,
+      "2024-04-04": 799,
       "2024-04-03": 540
     }
   },
@@ -1531,7 +1531,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 179,
+      "2024-04-04": 800,
       "2024-04-03": 535
     }
   },
@@ -1702,19 +1702,19 @@
     "url": "https://rbsodontologia.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/rbsodontologia.com.br.ico",
     "slug": "rbsodontologia-com-br",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
+    "time": 409,
+    "timeDay": 409,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-04-04": 179,
+      "2024-04-04": 798,
       "2024-04-03": 535
     }
   },
@@ -1735,7 +1735,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 179,
+      "2024-04-04": 800,
       "2024-04-03": 535
     }
   },
@@ -1756,7 +1756,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 179,
+      "2024-04-04": 800,
       "2024-04-03": 535
     }
   },
