@@ -1,9 +1,22 @@
 owner: tomattone
 repo: status
 
+status-website:
+  cname: status.tomazzoni.net
+  logoUrl: https://tomazzoni.net/img/logo-horizontal.svg
+  favicon: https://tomazzoni.net/img/apple-touch-icon-180x180.png
+  name: Status | Tomazzoni • Hospedagem de site e emails.
+  theme: light
+  css: '.logo img { height: 2.3rem !important; } .logo div { display: none; }'
+  introTitle: ''
+  introMessage: Monitoramento em **tempo real** dos sites mantidos por Tomazzoni • Hospedagem de site e emails.
+  navbar:
+    - title: Status
+      href: /
+    - title: Contato
+      href: https://wa.me/5542988077188
+
 sites:
-  - name: construtoralcs.com.br
-    url: https://construtoralcs.com.br
   - name: construtoralcs.com.br
     url: https://construtoralcs.com.br
   - name: mudardeimovel.com.br
@@ -60,8 +73,6 @@ sites:
     url: https://riobrancolab.com.br
   - name: romanceshistoricos.com.br
     url: https://romanceshistoricos.com.br
-  - name: s4cursosetreinamentos.com.br
-    url: https://s4cursosetreinamentos.com.br
   - name: studio32.com.br
     url: https://studio32.com.br
   - name: cachoeiradamariquinha.com.br
@@ -74,8 +85,6 @@ sites:
     url: https://tokencertificadora.com.br
   - name: jank.adv.br
     url: https://jank.adv.br
-  - name: arfuturocert.com.br
-    url: https://arfuturocert.com.br
   - name: alolventures.com.br
     url: https://alolventures.com.br
   - name: pontaengenharia.com.br
@@ -86,8 +95,6 @@ sites:
     url: https://atendimento.vitallelaboratorio.com.br
   - name: culturasulfm.com.br
     url: https://culturasulfm.com.br
-  - name: cormixtintas.com.br
-    url: https://cormixtintas.com.br
   - name: lojasulfashion.com.br
     url: https://lojasulfashion.com.br
   - name: villagioverdeeventos.com.br
@@ -106,8 +113,8 @@ sites:
     url: https://miarakruger.com.br
   - name: aldeia.work
     url: https://aldeia.work
-  - name: capitalli.co
-    url: https://capitalli.co
+  - name: capitalli.one
+    url: https://capitalli.one
   - name: tecplastbrasil.com.br
     url: https://tecplastbrasil.com.br
   - name: brickto.com
@@ -126,8 +133,6 @@ sites:
     url: https://dev.stelladiamonds.com.br
   - name: prazeresdobanhoabc.com.br
     url: https://prazeresdobanhoabc.com.br
-  - name: mirocozinhaevinho.com.br
-    url: https://mirocozinhaevinho.com.br
   - name: estudiohugofreire.com
     url: https://estudiohugofreire.com
   - name: coopesp.com.br
@@ -152,8 +157,6 @@ sites:
     url: https://lojacentermodas.com
   - name: miquelao.com.br
     url: https://miquelao.com.br
-  - name: mush.eco
-    url: https://mush.eco
   - name: vilavilo.com.br
     url: https://vilavilo.com.br
   - name: visonmotel.com
@@ -220,8 +223,6 @@ sites:
     url: https://agpmarcasepatentes.com.br
   - name: alluv.com.br
     url: https://alluv.com.br
-  - name: assodaf.com.br
-    url: https://assodaf.com.br
   - name: lordtower.com.br
     url: https://lordtower.com.br
   - name: terraseguros.com.br
@@ -271,17 +272,64 @@ sites:
   - name: agenciarazza.com.br
     url: https://agenciarazza.com.br
 
-status-website:
-  cname: status.tomazzoni.net
-  logoUrl: https://tomazzoni.net/img/logo-horizontal.svg
-  favicon: https://tomazzoni.net/img/apple-touch-icon-180x180.png
-  name: Status | Tomazzoni • Hospedagem de site e emails.
-  theme: light
-  css: '.logo img { height: 2.3rem !important; } .logo div { display: none; }'
-  introTitle: ''
-  introMessage: Monitoramento em **tempo real** dos sites mantidos por Tomazzoni • Hospedagem de site e emails.
-  navbar:
-    - title: Status
-      href: /
-    - title: Contato
-      href: https://wa.me/5542988077188
+i18n:
+  activeIncidents: Incidentes Ativos
+  allSystemsOperational: Todos os sistemas estão operacionais
+  incidentReport: 'Relatório do Incidente #$NUMBER →'
+  activeIncidentSummary: Aberto em $DATE com $POSTS postagens
+  incidentTitle: Detalhes do Incidente $NUMBER
+  incidentDetails: Detalhes do Incidente
+  incidentFixed: Corrigido
+  incidentOngoing: Em andamento
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentViewOnGitHub: Visualizar e Inscrever-se no GitHub
+  incidentCommentSummary: Postado em $DATE por $AUTHOR
+  incidentBack: ← Voltar para todos os incidentes
+  pastIncidents: Incidentes Anteriores
+  pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS postagens
+  liveStatus: Status Atual
+  overallUptime: 'Tempo de atividade total: $UPTIME'
+  overallUptimeTitle: Tempo de atividade total
+  averageResponseTime: 'Tempo médio de resposta: $TIMEms'
+  averageResponseTimeTitle: Tempo médio de resposta
+  sevenDayResponseTime: Tempo de resposta de 7 dias
+  responseTimeMs: Tempo de resposta (ms)
+  up: Ativo
+  down: Inativo
+  degraded: Degradado
+  ms: ms
+  loading: Carregando
+  navGitHub: GitHub
+  footer: Feito com 🧡 por [tomazzoni.net](https://tomazzoni.net)
+  rateLimitExceededTitle: Limite de taxa excedido
+  rateLimitExceededIntro: Você excedeu o número de solicitações que pode fazer em uma hora, então terá que esperar antes de acessar este site novamente. Alternativamente, você pode adicionar um Token de Acesso Pessoal do GitHub para continuar a usar este site.
+  rateLimitExceededWhatDoesErrorMean: O que significa este erro?
+  rateLimitExceededErrorMeaning: Este site usa a API do GitHub para acessar dados em tempo real sobre o status de nossos sites. Por padrão, o GitHub permite 60 solicitações por hora para cada endereço IP, o que você consumiu.
+  rateLimitExceededErrorHowCanFix: Como posso corrigir isso?
+  rateLimitExceededErrorFix: Você pode esperar mais uma hora e o limite do seu endereço IP será restaurado. Alternativamente, você pode adicionar seu Token de Acesso Pessoal do GitHub, que oferece 5.000 solicitações adicionais por hora.
+  rateLimitExceededGeneratePAT: Saiba como gerar um Token de Acesso Pessoal
+  rateLimitExceededHasSet: Você tem um token de acesso pessoal configurado.
+  rateLimitExceededRemoveToken: Remover token
+  rateLimitExceededGitHubPAT: Token de Acesso Pessoal do GitHub
+  rateLimitExceededCopyPastePAT: Copie e cole seu token
+  rateLimitExceededSaveToken: Salvar token
+  errorTitle: Ocorreu um erro
+  errorIntro: Ocorreu um erro ao tentar obter os detalhes mais recentes do status.
+  errorText: Você pode tentar novamente em alguns momentos.
+  errorHome: Ir para a página inicial
+  pastScheduledMaintenance: Manutenções Agendadas Anteriores
+  scheduledMaintenance: Manutenção Agendada
+  scheduledMaintenanceSummaryStarted: Iniciado em $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Inicia em $DATE por $DURATION minutos
+  startedAt: Iniciado em
+  startsAt: Inicia em
+  duration: Duração
+  durationMin: $DURATION minutos
+  incidentCompleted: Concluído
+  incidentScheduled: Agendado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1a
+  durationAll: todos

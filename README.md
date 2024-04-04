@@ -148,4 +148,4 @@ Monitoramento em **tempo real** dos sites mantidos por Tomazzoni • Hospedagem 
 
 <!--end: status pages-->
 
-[**Visit pelo site →**](https://status.tomazzoni.net)
+[**Visitar site →**](https://status.tomazzoni.net)
