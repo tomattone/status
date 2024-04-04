@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 961,
+      "2024-04-04": 1011,
       "2024-04-03": 540
     }
   },
@@ -1159,19 +1159,19 @@
     "url": "https://macpontacaminhoes.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/macpontacaminhoes.com.br.ico",
     "slug": "macpontacaminhoes-com-br",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 4008,
-    "timeDay": 1112,
-    "timeWeek": 4008,
-    "timeMonth": 4008,
-    "timeYear": 4008,
+    "status": "up",
+    "uptime": "96.83%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "96.83%",
+    "uptimeYear": "96.83%",
+    "time": 3618,
+    "timeDay": 1074,
+    "timeWeek": 3618,
+    "timeMonth": 3618,
+    "timeYear": 3618,
     "dailyMinutesDown": {
-      "2024-04-04": 3
+      "2024-04-04": 49
     }
   },
   {
@@ -1533,7 +1533,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 962,
+      "2024-04-04": 1011,
       "2024-04-03": 535
     }
   },
@@ -1705,11 +1705,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbsodontologia.com.br.ico",
     "slug": "rbsodontologia-com-br",
     "status": "up",
-    "uptime": "10.95%",
-    "uptimeDay": "11.38%",
-    "uptimeWeek": "10.95%",
-    "uptimeMonth": "10.95%",
-    "uptimeYear": "10.95%",
+    "uptime": "13.79%",
+    "uptimeDay": "14.81%",
+    "uptimeWeek": "13.79%",
+    "uptimeMonth": "13.79%",
+    "uptimeYear": "13.79%",
     "time": 409,
     "timeDay": 409,
     "timeWeek": 409,
@@ -1737,7 +1737,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 962,
+      "2024-04-04": 1011,
       "2024-04-03": 535
     }
   },
@@ -1758,7 +1758,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 962,
+      "2024-04-04": 1011,
       "2024-04-03": 535
     }
   },
