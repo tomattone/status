@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 683,
+      "2024-04-05": 691,
       "2024-04-04": 1440,
       "2024-04-03": 540
     }
@@ -1124,19 +1124,19 @@
     "url": "https://solarini.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/solarini.com.br.ico",
     "slug": "solarini-com-br",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1962,
-    "timeDay": 3476,
-    "timeWeek": 1962,
-    "timeMonth": 1962,
-    "timeYear": 1962,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 2215,
+    "timeDay": 3859,
+    "timeWeek": 2215,
+    "timeMonth": 2215,
+    "timeYear": 2215,
     "dailyMinutesDown": {
-      "2024-04-05": 4
+      "2024-04-05": 9
     }
   },
   {
@@ -1536,7 +1536,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 684,
+      "2024-04-05": 692,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
@@ -1709,11 +1709,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbsodontologia.com.br.ico",
     "slug": "rbsodontologia-com-br",
     "status": "up",
-    "uptime": "49.87%",
-    "uptimeDay": "92.10%",
-    "uptimeWeek": "49.87%",
-    "uptimeMonth": "49.87%",
-    "uptimeYear": "49.87%",
+    "uptime": "50.02%",
+    "uptimeDay": "92.65%",
+    "uptimeWeek": "50.02%",
+    "uptimeMonth": "50.02%",
+    "uptimeYear": "50.02%",
     "time": 441,
     "timeDay": 441,
     "timeWeek": 441,
@@ -1741,7 +1741,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 684,
+      "2024-04-05": 692,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
@@ -1763,7 +1763,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 684,
+      "2024-04-05": 692,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
