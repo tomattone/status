@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 1291,
+      "2024-04-05": 1301,
       "2024-04-04": 1440,
       "2024-04-03": 540
     }
@@ -1534,7 +1534,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 1291,
+      "2024-04-05": 1301,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
@@ -1707,11 +1707,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbsodontologia.com.br.ico",
     "slug": "rbsodontologia-com-br",
     "status": "up",
-    "uptime": "59.19%",
+    "uptime": "59.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.19%",
-    "uptimeMonth": "59.19%",
-    "uptimeYear": "59.19%",
+    "uptimeWeek": "59.31%",
+    "uptimeMonth": "59.31%",
+    "uptimeYear": "59.31%",
     "time": 441,
     "timeDay": 473,
     "timeWeek": 441,
@@ -1739,7 +1739,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 1291,
+      "2024-04-05": 1301,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
@@ -1761,7 +1761,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 1291,
+      "2024-04-05": 1301,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
@@ -2275,19 +2275,19 @@
     "url": "https://tomazzoni.net",
     "icon": "https://icons.duckduckgo.com/ip3/tomazzoni.net.ico",
     "slug": "tomazzoni-net",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 654,
-    "timeDay": 654,
-    "timeWeek": 654,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 638,
+    "timeDay": 601,
+    "timeWeek": 638,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {
-      "2024-04-05": 1
+      "2024-04-05": 10
     }
   },
   {
