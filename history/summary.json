@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 904,
+      "2024-04-05": 1061,
       "2024-04-04": 1440,
       "2024-04-03": 540
     }
@@ -1161,13 +1161,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/macpontacaminhoes.com.br.ico",
     "slug": "macpontacaminhoes-com-br",
     "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
+    "uptime": "98.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 3336,
-    "timeDay": 981,
+    "timeDay": 1080,
     "timeWeek": 3336,
     "timeMonth": 3336,
     "timeYear": 3336,
@@ -1450,19 +1450,19 @@
     "url": "https://gabrielambrozio.com",
     "icon": "https://icons.duckduckgo.com/ip3/gabrielambrozio.com.ico",
     "slug": "gabrielambrozio-com",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 1019,
-    "timeDay": 909,
-    "timeWeek": 1019,
-    "timeMonth": 1019,
-    "timeYear": 1019,
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 982,
+    "timeDay": 836,
+    "timeWeek": 982,
+    "timeMonth": 982,
+    "timeYear": 982,
     "dailyMinutesDown": {
-      "2024-04-05": 6
+      "2024-04-05": 1
     }
   },
   {
@@ -1536,7 +1536,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 904,
+      "2024-04-05": 1061,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
@@ -1709,11 +1709,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbsodontologia.com.br.ico",
     "slug": "rbsodontologia-com-br",
     "status": "up",
-    "uptime": "53.71%",
+    "uptime": "56.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.71%",
-    "uptimeMonth": "53.71%",
-    "uptimeYear": "53.71%",
+    "uptimeWeek": "56.10%",
+    "uptimeMonth": "56.10%",
+    "uptimeYear": "56.10%",
     "time": 441,
     "timeDay": 473,
     "timeWeek": 441,
@@ -1741,7 +1741,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 904,
+      "2024-04-05": 1061,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
@@ -1763,7 +1763,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 904,
+      "2024-04-05": 1061,
       "2024-04-04": 1440,
       "2024-04-03": 535
     }
