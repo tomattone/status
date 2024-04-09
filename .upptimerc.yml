@@ -7,7 +7,7 @@ status-website:
   favicon: https://tomazzoni.net/img/apple-touch-icon-180x180.png
   name: Status | Tomazzoni • Hospedagem de site e emails.
   theme: light
-  css: '.logo img { height: 2.3rem !important; } .logo div { display: none; }'
+  css: '.logo img { height: 2rem !important; } .logo div { display: none; }'
   introTitle: ''
   introMessage: Monitoramento em **tempo real** dos sites mantidos por Tomazzoni • Hospedagem de site e emails.
   navbar:
@@ -17,260 +17,226 @@ status-website:
       href: https://wa.me/5542988077188
 
 sites:
-  - name: construtoralcs.com.br
-    url: https://construtoralcs.com.br
-  - name: mudardeimovel.com.br
-    url: https://mudardeimovel.com.br
-  - name: lafontebr.com
-    url: https://lafontebr.com
-  - name: basesolida.com.br
-    url: https://basesolida.com.br
-  - name: dominiovisual.com.br
-    url: https://dominiovisual.com.br
-  - name: polomadeireiro.com.br
-    url: https://polomadeireiro.com.br
-  - name: vilanovamazon.com.br
-    url: https://vilanovamazon.com.br
-  - name: villenamoveis.com.br
-    url: https://villenamoveis.com.br
-  - name: plenacertificados.com.br
-    url: https://plenacertificados.com.br
+  - name: 2coelhos.com.br
+    url: https://2coelhos.com.br
   - name: a1sistemas.com.br
     url: https://a1sistemas.com.br
+  - name: absolutacertificados.com.br
+    url: https://absolutacertificados.com.br
   - name: aguadeanjo.com.br
     url: https://aguadeanjo.com.br
-  - name: brigatapizzaria.com.br
-    url: https://brigatapizzaria.com.br
-  - name: calponta.com.br
-    url: https://calponta.com.br
-  - name: dnaframing.com.br
-    url: https://dnaframing.com.br
-  - name: draanelise.com.br
-    url: https://draanelise.com.br
-  - name: estofadosabara.com.br
-    url: https://estofadosabara.com.br
-  - name: fraciona.com.br
-    url: https://fraciona.com.br
-  - name: grupoprocess.com.br
-    url: https://grupoprocess.com.br
-  - name: jato.eco.br
-    url: https://jato.eco.br
-  - name: kaosestudio.com.br
-    url: https://kaosestudio.com.br
-  - name: marinazanettiarq.com.br
-    url: https://marinazanettiarq.com.br
-  - name: maybmaia.com.br
-    url: https://maybmaia.com.br
-  - name: odontofares.com.br
-    url: https://odontofares.com.br
-  - name: oficinadorocha.com.br
-    url: https://oficinadorocha.com.br
-  - name: reydolacteo.com.br
-    url: https://reydolacteo.com.br
-  - name: rhodmann.com.br
-    url: https://rhodmann.com.br
-  - name: riobrancolab.com.br
-    url: https://riobrancolab.com.br
-  - name: romanceshistoricos.com.br
-    url: https://romanceshistoricos.com.br
-  - name: studio32.com.br
-    url: https://studio32.com.br
-  - name: cachoeiradamariquinha.com.br
-    url: https://cachoeiradamariquinha.com.br
-  - name: edmararaujo.com.br
-    url: https://edmararaujo.com.br
-  - name: funerariasantanapg.com.br
-    url: https://funerariasantanapg.com.br
-  - name: tokencertificadora.com.br
-    url: https://tokencertificadora.com.br
-  - name: jank.adv.br
-    url: https://jank.adv.br
-  - name: alolventures.com.br
-    url: https://alolventures.com.br
-  - name: pontaengenharia.com.br
-    url: https://pontaengenharia.com.br
-  - name: vitallelaboratorio.com.br
-    url: https://vitallelaboratorio.com.br
-  - name: atendimento.vitallelaboratorio.com.br
-    url: https://atendimento.vitallelaboratorio.com.br
-  - name: culturasulfm.com.br
-    url: https://culturasulfm.com.br
-  - name: lojasulfashion.com.br
-    url: https://lojasulfashion.com.br
-  - name: villagioverdeeventos.com.br
-    url: https://villagioverdeeventos.com.br
-  - name: fluidponta.com.br
-    url: https://fluidponta.com.br
-  - name: lojaodokeima.com.br
-    url: https://lojaodokeima.com.br
-  - name: retibom.com
-    url: https://retibom.com
-  - name: trcdistribuicao.com.br
-    url: https://trcdistribuicao.com.br
-  - name: servtintas.com.br
-    url: https://servtintas.com.br
-  - name: miarakruger.com.br
-    url: https://miarakruger.com.br
+  - name: agilpressseguros.com.br
+    url: https://agilpressseguros.com.br
+  - name: agpmarcasepatentes.com.br
+    url: https://agpmarcasepatentes.com.br
+  - name: agrobiologica.com.br
+    url: https://agrobiologica.com.br
+  - name: aguiasistemas.com.br
+    url: https://aguiasistemas.com.br
   - name: aldeia.work
     url: https://aldeia.work
-  - name: capitalli.one
-    url: https://capitalli.one
-  - name: tecplastbrasil.com.br
-    url: https://tecplastbrasil.com.br
-  - name: brickto.com
-    url: https://brickto.com
-  - name: grupoefisco.com.br
-    url: https://grupoefisco.com.br
-  - name: homebankbrasil.com.br
-    url: https://homebankbrasil.com.br
-  - name: inteccontabilidade.com.br
-    url: https://inteccontabilidade.com.br
-  - name: personapublicidade.com.br
-    url: https://personapublicidade.com.br
-  - name: traxt.io
-    url: https://traxt.io
-  - name: dev.stelladiamonds.com.br
-    url: https://dev.stelladiamonds.com.br
-  - name: prazeresdobanhoabc.com.br
-    url: https://prazeresdobanhoabc.com.br
-  - name: estudiohugofreire.com
-    url: https://estudiohugofreire.com
-  - name: coopesp.com.br
-    url: https://coopesp.com.br
-  - name: conceitoimoveispg.com.br
-    url: https://conceitoimoveispg.com.br
-  - name: construtorabaseforte.com.br
-    url: https://construtorabaseforte.com.br
-  - name: solarini.com.br
-    url: https://solarini.com.br
-  - name: ecbeng.com.br
-    url: https://ecbeng.com.br
-  - name: macpontacaminhoes.com.br
-    url: https://macpontacaminhoes.com.br
-  - name: opiummotel.com
-    url: https://opiummotel.com
-  - name: consipa.com.br
-    url: https://consipa.com.br
-  - name: lepiegemotel.com.br
-    url: https://lepiegemotel.com.br
-  - name: lojacentermodas.com
-    url: https://lojacentermodas.com
-  - name: miquelao.com.br
-    url: https://miquelao.com.br
-  - name: vilavilo.com.br
-    url: https://vilavilo.com.br
-  - name: visonmotel.com
-    url: https://visonmotel.com
+  - name: alolventures.com.br
+    url: https://alolventures.com.br
+  - name: alluv.com.br
+    url: https://alluv.com.br
   - name: analise.eng.br
     url: https://analise.eng.br
   - name: andressavieira.com.br
     url: https://andressavieira.com.br
-  - name: cdepg.org.br
-    url: https://cdepg.org.br
+  - name: atendimento.vitallelaboratorio.com.br
+    url: https://atendimento.vitallelaboratorio.com.br
+  - name: avanttengenharia.com.br
+    url: https://avanttengenharia.com.br
+  - name: basesolida.com.br
+    url: https://basesolida.com.br
+  - name: brickto.com
+    url: https://brickto.com
+  - name: brigatapizzaria.com.br
+    url: https://brigatapizzaria.com.br
+  - name: cachoeiradamariquinha.com.br
+    url: https://cachoeiradamariquinha.com.br
+  - name: calponta.com.br
+    url: https://calponta.com.br
+  - name: capitalli.one
+    url: https://capitalli.one
   - name: centralpremy.com.br
     url: https://centralpremy.com.br
+  - name: cdepg.org.br
+    url: https://cdepg.org.br
+  - name: coopesp.com.br
+    url: https://coopesp.com.br
+  - name: compensadosscharan.com.br
+    url: https://compensadosscharan.com.br
   - name: compensadosgranada.com.br
     url: https://compensadosgranada.com.br
+  - name: conceitoimoveisbc.com.br
+    url: https://conceitoimoveisbc.com.br
+  - name: conceitoimoveispg.com.br
+    url: https://conceitoimoveispg.com.br
+  - name: conceitoimoveissc.com.br
+    url: https://conceitoimoveissc.com.br
+  - name: construtorabaseforte.com.br
+    url: https://construtorabaseforte.com.br
+  - name: construtorajmc.com.br
+    url: https://construtorajmc.com.br
   - name: construtoralegacy.com.br
     url: https://construtoralegacy.com.br
+  - name: construtoralcs.com.br
+    url: https://construtoralcs.com.br
   - name: contornoturbo.com.br
     url: https://contornoturbo.com.br
+  - name: culturasulfm.com.br
+    url: https://culturasulfm.com.br
   - name: delpozotransportes.com.br
     url: https://delpozotransportes.com.br
+  - name: dev.stelladiamonds.com.br
+    url: https://dev.stelladiamonds.com.br
+  - name: dnaframing.com.br
+    url: https://dnaframing.com.br
+  - name: draanelise.com.br
+    url: https://draanelise.com.br
+  - name: edmararaujo.com.br
+    url: https://edmararaujo.com.br
+  - name: ecbeng.com.br
+    url: https://ecbeng.com.br
+  - name: estofadosabara.com.br
+    url: https://estofadosabara.com.br
+  - name: estudiohugofreire.com
+    url: https://estudiohugofreire.com
+  - name: feijaopontarollo.com.br
+    url: https://feijaopontarollo.com.br
+  - name: fluidponta.com.br
+    url: https://fluidponta.com.br
+  - name: fraciona.com.br
+    url: https://fraciona.com.br
+  - name: funerariasantanapg.com.br
+    url: https://funerariasantanapg.com.br
   - name: gabrielambrozio.com
     url: https://gabrielambrozio.com
   - name: globotc.com.br
     url: https://globotc.com.br
   - name: ibras.com.br
     url: https://ibras.com.br
+  - name: jank.adv.br
+    url: https://jank.adv.br
+  - name: kaosestudio.com.br
+    url: https://kaosestudio.com.br
   - name: krugerflorestal.com.br
     url: https://krugerflorestal.com.br
+  - name: lepiegemotel.com.br
+    url: https://lepiegemotel.com.br
+  - name: lionsdev.com.br
+    url: https://lionsdev.com.br
+  - name: lojaodokeima.com.br
+    url: https://lojaodokeima.com.br
+  - name: lojasulfashion.com.br
+    url: https://lojasulfashion.com.br
+  - name: lordtower.com.br
+    url: https://lordtower.com.br
+  - name: macpontacaminhoes.com.br
+    url: https://macpontacaminhoes.com.br
+  - name: m3hengenharia.com
+    url: https://m3hengenharia.com
   - name: medicoapp.com.br
     url: https://medicoapp.com.br
   - name: melhorapartamento.com.br
     url: https://melhorapartamento.com.br
   - name: melkland.com.br
     url: https://melkland.com.br
-  - name: mkclinic.com.br
-    url: https://mkclinic.com.br
+  - name: mercadodeeventos.com
+    url: https://www.mercadodeeventos.com
+  - name: miarakruger.com.br
+    url: https://miarakruger.com.br
+  - name: miquelao.com.br
+    url: https://miquelao.com.br
   - name: mmmilleo.com.br
     url: https://mmmilleo.com.br
+  - name: mudardeimovel.com.br
+    url: https://mudardeimovel.com.br
   - name: na4.com.br
     url: https://na4.com.br
   - name: nascarautovidros.com.br
     url: https://nascarautovidros.com.br
-  - name: pollipinus.com.br
-    url: https://pollipinus.com.br
+  - name: odontofares.com.br
+    url: https://odontofares.com.br
+  - name: omxsistemas.com.br
+    url: https://omxsistemas.com.br
+  - name: opiummotel.com
+    url: https://opiummotel.com
+  - name: orquestraapreciatto.com.br
+    url: https://orquestraapreciatto.com.br
+  - name: personapublicidade.com.br
+    url: https://personapublicidade.com.br
+  - name: plenacertificados.com.br
+    url: https://plenacertificados.com.br
+  - name: polomadeireiro.com.br
+    url: https://polomadeireiro.com.br
+  - name: pontaengenharia.com.br
+    url: https://pontaengenharia.com.br
   - name: pramio.com.br
     url: https://pramio.com.br
   - name: prmempreendimentos.com.br
     url: https://prmempreendimentos.com.br
+  - name: preambulo.com.br
+    url: https://preambulo.com.br
+  - name: prazeresdobanhoabc.com.br
+    url: https://prazeresdobanhoabc.com.br
   - name: rbsodontologia.com.br
     url: https://rbsodontologia.com.br
+  - name: reydolacteo.com.br
+    url: https://reydolacteo.com.br
+  - name: retibom.com
+    url: https://retibom.com
+  - name: rhodmann.com.br
+    url: https://rhodmann.com.br
+  - name: riobrancolab.com.br
+    url: https://riobrancolab.com.br
+  - name: rodrigoscheidt.com
+    url: https://rodrigoscheidt.com
+  - name: romanceshistoricos.com.br
+    url: https://romanceshistoricos.com.br
   - name: rotarypontagrossa.com.br
     url: https://rotarypontagrossa.com.br
   - name: saltte.com.br
     url: https://saltte.com.br
-  - name: construtorajmc.com.br
-    url: https://construtorajmc.com.br
-  - name: 2coelhos.com.br
-    url: https://2coelhos.com.br
-  - name: absolutacertificados.com.br
-    url: https://absolutacertificados.com.br
-  - name: agilpressseguros.com.br
-    url: https://agilpressseguros.com.br
-  - name: agpmarcasepatentes.com.br
-    url: https://agpmarcasepatentes.com.br
-  - name: alluv.com.br
-    url: https://alluv.com.br
-  - name: lordtower.com.br
-    url: https://lordtower.com.br
-  - name: terraseguros.com.br
-    url: https://terraseguros.com.br
-  - name: farmaervadoce.com.br
-    url: https://farmaervadoce.com.br
-  - name: conceitoimoveissc.com.br
-    url: https://conceitoimoveissc.com.br
-  - name: julianamacielarqinteriores.com.br
-    url: https://julianamacielarqinteriores.com.br
-  - name: mercadodeeventos.com
-    url: https://www.mercadodeeventos.com
-  - name: vfteng.com.br
-    url: https://vfteng.com.br
-  - name: avanttengenharia.com.br
-    url: https://avanttengenharia.com.br
-  - name: conceitoimoveisbc.com.br
-    url: https://conceitoimoveisbc.com.br
-  - name: orquestraapreciatto.com.br
-    url: https://orquestraapreciatto.com.br
-  - name: rodrigoscheidt.com
-    url: https://rodrigoscheidt.com
-  - name: feijaopontarollo.com.br
-    url: https://feijaopontarollo.com.br
-  - name: omxsistemas.com.br
-    url: https://omxsistemas.com.br
-  - name: torrie.com.br
-    url: https://torrie.com.br
-  - name: lionsdev.com.br
-    url: https://lionsdev.com.br
-  - name: preambulo.com.br
-    url: https://preambulo.com.br
-  - name: m3hengenharia.com
-    url: https://m3hengenharia.com
-  - name: aguiasistemas.com.br
-    url: https://aguiasistemas.com.br
-  - name: compensadosscharan.com.br
-    url: https://compensadosscharan.com.br
+  - name: servtintas.com.br
+    url: https://servtintas.com.br
   - name: shoppingcarpg.com.br
     url: https://shoppingcarpg.com.br
-  - name: agrobiologica.com.br
-    url: https://agrobiologica.com.br
+  - name: solarini.com.br
+    url: https://solarini.com.br
   - name: sosalegria.org
     url: https://sosalegria.org
+  - name: stelladiamonds.com.br
+    url: https://stelladiamonds.com.br
+  - name: studio32.com.br
+    url: https://studio32.com.br
+  - name: tecplastbrasil.com.br
+    url: https://tecplastbrasil.com.br
+  - name: terraseguros.com.br
+    url: https://terraseguros.com.br
   - name: tomazzoni.net
     url: https://tomazzoni.net
-  - name: agenciarazza.com.br
-    url: https://agenciarazza.com.br
+  - name: torrie.com.br
+    url: https://torrie.com.br
+  - name: traxt.io
+    url: https://traxt.io
+  - name: trcdistribuicao.com.br
+    url: https://trcdistribuicao.com.br
+  - name: vfteng.com.br
+    url: https://vfteng.com.br
+  - name: vfteng.com.br
+    url: https://vfteng.com.br
+  - name: vilanovamazon.com.br
+    url: https://vilanovamazon.com.br
+  - name: vilavilo.com.br
+    url: https://vilavilo.com.br
+  - name: villagioverdeeventos.com.br
+    url: https://villagioverdeeventos.com.br
+  - name: villenamoveis.com.br
+    url: https://villenamoveis.com.br
+  - name: visonmotel.com
+    url: https://visonmotel.com
 
 i18n:
   activeIncidents: Incidentes Ativos
