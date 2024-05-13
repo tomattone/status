@@ -135,8 +135,6 @@ sites:
     url: https://macpontacaminhoes.com.br
   - name: medicoapp.com.br
     url: https://medicoapp.com.br
-  - name: melhorapartamento.com.br
-    url: https://melhorapartamento.com.br
   - name: melkland.com.br
     url: https://melkland.com.br
   - name: mercadodeeventos.com
@@ -189,8 +187,6 @@ sites:
     url: https://rodrigoscheidt.com
   - name: romanceshistoricos.com.br
     url: https://romanceshistoricos.com.br
-  - name: rotarypontagrossa.com.br
-    url: https://rotarypontagrossa.com.br
   - name: servtintas.com.br
     url: https://servtintas.com.br
   - name: shoppingcarpg.com.br
@@ -200,7 +196,7 @@ sites:
   - name: sosalegria.org
     url: https://sosalegria.org
   - name: stelladiamonds.com.br
-    url: https://stelladiamonds.com.br
+    url: https://stelladiamonds.com.br/minha-conta/
   - name: studio32.com.br
     url: https://studio32.com.br
   - name: tecplastbrasil.com.br
