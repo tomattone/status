@@ -89,6 +89,7 @@ sites:
     url: https://delpozotransportes.com.br
   - name: dev.stelladiamonds.com.br
     url: https://dev.stelladiamonds.com.br
+    maxResponseTime: 5000
   - name: dnaframing.com.br
     url: https://dnaframing.com.br
   - name: draanelise.com.br
@@ -115,6 +116,7 @@ sites:
     url: https://gravinaonline.com.br
   - name: grupomezzo.com
     url: https://grupomezzo.com
+    maxResponseTime: 5000
   - name: ibras.com.br
     url: https://ibras.com.br
   - name: kaosestudio.com.br
@@ -213,6 +215,7 @@ sites:
     url: https://traxt.io
   - name: trcdistribuicao.com.br
     url: https://trcdistribuicao.com.br
+    maxResponseTime: 5000
   - name: vfteng.com.br
     url: https://vfteng.com.br
   - name: vfteng.com.br
