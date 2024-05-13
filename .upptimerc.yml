@@ -218,8 +218,6 @@ sites:
     maxResponseTime: 5000
   - name: vfteng.com.br
     url: https://vfteng.com.br
-  - name: vfteng.com.br
-    url: https://vfteng.com.br
   - name: vilanovamazon.com.br
     url: https://vilanovamazon.com.br
   - name: vilavilo.com.br
