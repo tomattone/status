@@ -1,7 +1,7 @@
 url: https://solarini.com.br
-status: up
-code: 200
-responseTime: 1355
-lastUpdated: 2024-06-04T18:52:25.507Z
+status: down
+code: 500
+responseTime: 1784
+lastUpdated: 2024-06-04T19:02:11.866Z
 startTime: 2024-04-03T15:03:10.254Z
 generator: Upptime <https://github.com/upptime/upptime>
