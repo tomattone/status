@@ -1,7 +1,7 @@
 url: https://trcdistribuicao.com.br
-status: degraded
+status: down
 code: 403
-responseTime: 5039
-lastUpdated: 2024-06-06T19:56:24.478Z
+responseTime: 171
+lastUpdated: 2024-06-06T20:01:27.453Z
 startTime: 2024-04-03T15:01:46.923Z
 generator: Upptime <https://github.com/upptime/upptime>
