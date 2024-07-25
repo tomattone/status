@@ -1,7 +1,7 @@
 url: https://atendimento.vitallelaboratorio.com.br
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-25T20:49:11.500Z
+status: up
+code: 200
+responseTime: 861
+lastUpdated: 2024-07-25T21:11:43.778Z
 startTime: 2024-04-03T15:01:13.198Z
 generator: Upptime <https://github.com/upptime/upptime>
