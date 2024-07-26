@@ -1,7 +1,7 @@
 url: https://omxsistemas.com.br
-status: up
-code: 200
-responseTime: 1361
-lastUpdated: 2024-07-26T02:28:10.806Z
+status: down
+code: 500
+responseTime: 664
+lastUpdated: 2024-07-26T02:59:48.713Z
 startTime: 2024-04-03T15:05:42.505Z
 generator: Upptime <https://github.com/upptime/upptime>
