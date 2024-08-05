@@ -1,7 +1,7 @@
 url: https://agpmarcasepatentes.com.br
-status: up
-code: 200
-responseTime: 1243
-lastUpdated: 2024-08-04T23:10:40.970Z
+status: down
+code: 500
+responseTime: 26670
+lastUpdated: 2024-08-05T02:58:54.406Z
 startTime: 2024-04-03T15:05:14.908Z
 generator: Upptime <https://github.com/upptime/upptime>
