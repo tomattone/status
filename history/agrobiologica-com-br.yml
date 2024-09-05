@@ -1,7 +1,7 @@
 url: https://agrobiologica.com.br
-status: up
-code: 200
-responseTime: 1205
-lastUpdated: 2024-09-04T23:11:20.029Z
+status: down
+code: 500
+responseTime: 1000
+lastUpdated: 2024-09-05T02:59:29.465Z
 startTime: 2024-04-03T15:06:12.801Z
 generator: Upptime <https://github.com/upptime/upptime>
